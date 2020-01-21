@@ -1,0 +1,7 @@
+Homework 1_3
+
+1. tools:src
+2. setImageResource
+3. The variable will be initialized later. I promise!
+4. compileSdkVersion
+5. The class is part of the Android Jetpack libraries.
