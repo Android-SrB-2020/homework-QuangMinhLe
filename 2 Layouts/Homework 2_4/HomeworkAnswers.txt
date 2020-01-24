@@ -1,0 +1,7 @@
+Homework 2_4 answer
+
+1. Every time findViewById() is called, it traverses the view hierarchy
+2. The big idea about data binding is to create an object that connects/maps/binds two pieces of distant information together at compile time, so that you don't have to look for the data at runtime
+3. Calling findViewById() generates a compiler error
+4. Bindings are created for all the views in a layout
+5. android:text="@={myDataClass.property}"
