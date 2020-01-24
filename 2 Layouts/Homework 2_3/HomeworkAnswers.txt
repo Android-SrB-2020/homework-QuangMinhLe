@@ -1,0 +1,7 @@
+Homework 2_3 answers
+
+1. At least one horizontal and one vertical constraint
+2. Wrap content
+3. True
+4. A ConstraintLayout or a LinearLayout
+5. A ConstraintLayout
