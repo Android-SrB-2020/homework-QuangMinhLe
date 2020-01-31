@@ -1,0 +1,9 @@
+Homework Answers 3_1
+
+1.
+- When creating a fragment, you inflate the layout in the onCreateView() method. When creating an activity, you inflate the layout in onCreate().
+- When inflating the layout for either a fragment or an activity, you can reference the layout as R.layout.layoutname.
+2.
+- You can use a fragment in more than one activity.
+- One activity can have multiple fragments. 
+-Use the <fragment> tag to define the place in a layout file where a fragment is to be inserted. 
