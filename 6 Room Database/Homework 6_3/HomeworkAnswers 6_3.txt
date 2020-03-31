@@ -1,0 +1,5 @@
+Homework Answers 6_3
+
+1.In the ViewModel, define the LiveData value gotoBlueFragment.
+  In the RedFragment, observe the gotoBlueFragment value. Implement the observe{} code to navigate to BlueFragment when appropriate, and then reset the value of gotoBlueFragment to indicate that navigation is complete.
+  Make sure your code sets the gotoBlueFragment variable to the value that triggers navigation whenever the app needs to go from RedFragment to BlueFragment.

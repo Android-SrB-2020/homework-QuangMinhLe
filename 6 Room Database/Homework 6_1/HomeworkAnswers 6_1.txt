@@ -1,0 +1,12 @@
+Homework Answer 6_1
+
+1. Annotate the class with @Entity.
+2. Annotate the interface with @Dao.
+3. You can define tables for a Room database as annotated data classes.
+   If you return LiveData from a query, Room will keep the LiveData updated for you if the LiveData changes.
+   To identify a class as a Room database, make it a subclass of RoomDatabase and annotate it with @Database.
+4. @Update
+   @Insert
+   @Query
+5. Write instrumented tests.
+   Continue writing and running the app until it displays the data. 
