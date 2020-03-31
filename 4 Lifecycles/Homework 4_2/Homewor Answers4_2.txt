@@ -1,0 +1,6 @@
+Homework Answer 4_2
+
+1. During the phone call, you should stop computing the positions of objects in the physics simulation.
+2. onStop()
+3. LifecycleObserver
+4. - The activity is resumed after returning from the background.

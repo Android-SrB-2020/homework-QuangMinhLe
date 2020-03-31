@@ -1,0 +1,6 @@
+Homework answers 4_1
+
+1. Waiting
+2. onStart()
+3. onResume()
+4. Only once, when the activity is created.
