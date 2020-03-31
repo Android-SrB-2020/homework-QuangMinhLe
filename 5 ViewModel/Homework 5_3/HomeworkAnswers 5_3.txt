@@ -1,0 +1,5 @@
+Homework answer 5_3
+
+1. Listener bindings work with all versions of the Android Gradle plugin
+2. android:text= "@{@string/generic_name(user.name)}"
+3. When an event such as onClick() occurs

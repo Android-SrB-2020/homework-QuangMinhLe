@@ -1,0 +1,5 @@
+Homework answer 5_2
+
+1. Inside the ViewModel object, change the data type of the data to LiveData. Use a backing property to expose read-only data of the type LiveData.
+2. Resumed
+3. The data in a LiveData object
