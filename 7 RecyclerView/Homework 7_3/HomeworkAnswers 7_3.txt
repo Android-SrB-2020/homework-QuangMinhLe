@@ -1,0 +1,6 @@
+Homework Answers 7_3
+
+1. LinearLayoutManager
+   GridLayoutManager
+   StaggeredGridLayoutManager
+2. The number of columns in a grid that has a vertical orientation.
