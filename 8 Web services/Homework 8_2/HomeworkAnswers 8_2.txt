@@ -1,0 +1,5 @@
+Homework Answers 8_2
+
+1. into()
+2. Use RequestOptions() and call the placeholder() method with a drawable.
+3. Annotate the method with @BindingAdapter.

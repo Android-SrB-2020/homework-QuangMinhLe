@@ -1,0 +1,4 @@
+Homework Answers 8_3
+
+1. Enable you to reference classes and class members in binding expressions.
+2. Add a parameter for the query to the function that makes the request, and annotate that parameter with @Query

@@ -1,0 +1,6 @@
+Homework Answers 8_1
+
+1. The base URI for the web service, and a GET query.
+   A converter factory, and a parser for the response. 
+2. To parse a JSON response from a web service into Kotlin data objects. 
+3. They add the ability to return something other than the default Call class in Retrofit.
